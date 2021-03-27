@@ -1,5 +1,4 @@
 import React from 'react';
-
 import {Admin, ListGuesser, Resource} from "react-admin";
 import jsonServerProvider from 'ra-data-json-server';
 import {UserList} from "./user-getall";
